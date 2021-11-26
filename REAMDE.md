@@ -38,7 +38,7 @@
 ![范鑫.PNG](https://i.loli.net/2021/11/26/YbNXCuMh6ovJ7nf.png)
 
 
-...c
+```c
 #include<stdio.h>
 
 int main()
@@ -46,5 +46,4 @@ int main()
 	printf("c 语言测试代码\n");
 	return 0;
 }
-
-...
+```
